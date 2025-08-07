@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(15, 15)">
+    <circle cx="10" cy="10" r="10" fill="#3B82F6" />
+    <path d="M10 5L13 12H7L10 5Z" fill="white" />
+  </g>
+  <text x="45" y="37" fill="black" font-family="'Segoe UI', sans-serif" font-size="26" font-weight="600">SkillVista</text>
+</svg>
