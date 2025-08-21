@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "company": {
+        "_id": "68a3108a3d1f288a01628442",
+        "name": "kunal",
+        "email": "kunal@test.com"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YTMxMDhhM2QxZjI4OGEwMTYyODQ0MiIsImlhdCI6MTc1NTUxNzA2NiwiZXhwIjoxNzU4MTA5MDY2fQ.-z52dxC84HpOUALAnGSxaooaYHXyDUJ_riz0YOLe0nM"
+}
