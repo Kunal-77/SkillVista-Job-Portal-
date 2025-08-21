@@ -1,4 +1,4 @@
-# 🧳 Job Portal Web Application
+# 🧳 SKillVIsta Job Portal Web Application
 
 A modern full-stack job portal built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Clerk for user authentication. It helps job seekers discover opportunities and employers manage listings — with fast performance, a clean UI, and robust features.
 
